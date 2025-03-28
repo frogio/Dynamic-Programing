@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BackTrackSubsetSum", "BackTrackSubsetSum\BackTrackSubsetSum.vcxproj", "{33D134A7-D43D-46C3-ABB2-DB5FD21A4D21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33D134A7-D43D-46C3-ABB2-DB5FD21A4D21}.Debug|x64.ActiveCfg = Debug|x64
+		{33D134A7-D43D-46C3-ABB2-DB5FD21A4D21}.Debug|x64.Build.0 = Debug|x64
+		{33D134A7-D43D-46C3-ABB2-DB5FD21A4D21}.Debug|x86.ActiveCfg = Debug|Win32
+		{33D134A7-D43D-46C3-ABB2-DB5FD21A4D21}.Debug|x86.Build.0 = Debug|Win32
+		{33D134A7-D43D-46C3-ABB2-DB5FD21A4D21}.Release|x64.ActiveCfg = Release|x64
+		{33D134A7-D43D-46C3-ABB2-DB5FD21A4D21}.Release|x64.Build.0 = Release|x64
+		{33D134A7-D43D-46C3-ABB2-DB5FD21A4D21}.Release|x86.ActiveCfg = Release|Win32
+		{33D134A7-D43D-46C3-ABB2-DB5FD21A4D21}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79FFC93C-B388-4AD4-B6D5-F65C4F0495A3}
+	EndGlobalSection
+EndGlobal
